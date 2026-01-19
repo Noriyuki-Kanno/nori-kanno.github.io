@@ -1,4 +1,5 @@
 title: Nori Kanno Blog
 description: 趣味と学びのブログ
-theme: minima
+# theme: minima  <-- これを削除または # でコメントアウト
+remote_theme: daattali/beautiful-jekyll # <-- これを追加
 lang: ja
